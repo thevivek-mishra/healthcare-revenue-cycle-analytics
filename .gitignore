@@ -1,0 +1,16 @@
+node_modules/
+dist/
+
+_pycache_/
+*.pyc
+.venv/
+venv/
+
+.env
+
+*.log
+
+coverage/
+
+.DS_Store
+Thumbs.db
